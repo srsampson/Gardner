@@ -1,7 +1,7 @@
 /*
  * Original by Yash Tulsiani
  *
- * Converted to C by Software Toolworks
+ * Converted to C by Steve Sampson
  *
  * SPDX-License-Identifier: GPL-3.0-or-later
  */
