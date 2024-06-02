@@ -24,4 +24,6 @@ Then in your demodulation code:
 
     complex float decision = getMiddleSample(); // use middle TED sample
  ```
+ #### Deque Algorithm
+ A linear collection of complex signal samples that supports element insertion and removal at both ends. The name deque is short for "double ended queue" and is usually pronounced "deck".
  
